@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T22:44:46Z",
+  "IdClaims": [
+    {
+      "Claim": "t:dallasbarnett3"
+    },
+    {
+      "Claim": "yt:@dallasbarnett"
+    },
+    {
+      "Claim": "spout:dallas"
+    },
+    {
+      "Claim": "post:dallasbarnett"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "42e8ae4295679b77c51fc0cd",
+    "Timestamp": "2023-04-07T22:58:26Z",
+    "Signature": "8165c612a460cd33aa581407f9b451ebc17a31b2297e4609ac8bf6b78790f60484218312b507f255a739582f4dd78ff42aa6de1538e02badef618bb37239872592a1f904f85fdfaadc1cc85277a1100fa265c5b19743a520ee0e43d2286fa9de14ba352625d392c39958ecb63dcd654cfe0612f313080dbdce7325c861a802397d5bf9ca0af30276b13524aeecdfef241027179eed1acbc56e812cd8ee05d9e370582de3d45660b786499caeaea9eedec60da2cf1043ca00f7003d91347e281f3d6712c0cb031fa4b08c7fcc606f1e6ef764baedd382457f68ba7f92607ac7ccc378d63e3a35b9a9c77681cef8babfb9475945f9cedd2ee9ec56f6c90ce8c3ba"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "43ad5bedc36615924029bf445f384d6e2c1b4b9940ed75b411c4e096e8253650",
+  "ContentToHash": "v1|post:dallasbarnett,spout:dallas,t:dallasbarnett3,yt:@dallasbarnett|2023-04-07T22:44:46Z"
+}
